@@ -5,7 +5,7 @@ attrs==19.3.0
 Babel==2.7.0
 beautifulsoup4==4.8.1
 bs4==0.0.1
-certifi==2019.11.28
+certifi==2022.12.7
 chardet==3.0.4
 colorama==0.4.1
 dataframe==0.2.1.3
